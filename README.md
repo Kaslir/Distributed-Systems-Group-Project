@@ -8,7 +8,7 @@ Group Members:
 
 167141 - Karogo Joe
 
-
+151733 - Matthew Wachira
 
 
 This project implements a customizable load balancer with consistent hashing, Docker-managed server replicas, and scripts for endpoint and load tests.
